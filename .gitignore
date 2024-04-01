@@ -1,0 +1,8 @@
+.idea
+.venv
+__pycache__/
+handlers/__pycache__/
+tg_bot.db
+.env
+const.py
+media
